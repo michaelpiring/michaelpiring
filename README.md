@@ -5,7 +5,7 @@
       <br>-> piring.michael@gmail.com
       <br>-> https://www.linkedin.com/in/michael-piring/ (LinkedIn)
       
-<br>You never know when you don't try
+<br>You never know if you don't try.
 
 <!---
 michaelpiring/michaelpiring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
